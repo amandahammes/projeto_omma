@@ -157,6 +157,37 @@ h4 {
     
 }
 
+/* CAIXA SUPERIOR */
+
+#caixasuperior {
+    background-image: url("topo.png");
+    display: inline-flex;
+}
+
+/* MAIN CONTATO */
+
+#caixacontato {
+    display: flex;
+    gap: 5px;
+}
+
+/* CONTAINER 5 */
+
+#container5{
+    border: #FFA000 1px solid;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+#container5 h1{
+    font-family: 'ubuntu', sans-serif;
+}
+
+#formulario {
+    display: flex;
+}
+
 /* FOOTER */
 
 footer {
